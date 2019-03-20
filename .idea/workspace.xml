@@ -262,10 +262,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1920" />
-    <option name="y" value="235" />
-    <option name="width" value="1024" />
-    <option name="height" value="770" />
+    <option name="x" value="57" />
+    <option name="y" value="27" />
+    <option name="width" value="1863" />
+    <option name="height" value="1173" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -524,8 +524,8 @@
       <item itemvalue="Application.ChromeTestForDesiredCapabilities" />
       <item itemvalue="Application.ToolTip" />
       <item itemvalue="Application.ToolTip2" />
-      <item itemvalue="JUnit.GeckoDriverDemo" />
       <item itemvalue="Application.DemoStatic" />
+      <item itemvalue="JUnit.GeckoDriverDemo" />
     </list>
     <recent_temporary>
       <list>
